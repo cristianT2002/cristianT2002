@@ -9,19 +9,6 @@ I build backend systems that don't fall apart under pressure. 3+ years working o
 
 ---
 
-## Impact
-
-| metric | result | context |
-|--------|--------|---------|
-| **96%** cost reduction | ML model | Starlink overuse prediction |
-| **50%** less memory | event-driven refactor | async + decoupled services |
-| **85%+** precision | real-time YOLO | industrial PPE detection |
-| **30%** fewer prod errors | pytest suite | unit + integration coverage |
-| **40%** less failure detection time | Grafana + Prometheus | Docker monitoring |
-| **35%** faster queries | PostgreSQL optimization | 30k+ records |
-
----
-
 ## Stack
 
 ### backend / api
@@ -60,6 +47,20 @@ I build backend systems that don't fall apart under pressure. 3+ years working o
 
 ---
 
+## Impact
+
+| metric | result | context |
+|--------|--------|---------|
+| **96%** cost reduction | ML model | Starlink overuse prediction |
+| **50%** less memory | event-driven refactor | async + decoupled services |
+| **85%+** precision | real-time YOLO | industrial PPE detection |
+| **30%** fewer prod errors | pytest suite | unit + integration coverage |
+| **40%** less failure detection time | Grafana + Prometheus | Docker monitoring |
+| **35%** faster queries | PostgreSQL optimization | 30k+ records |
+
+---
+
+
 ## Stack focus
 
 
@@ -74,7 +75,7 @@ pie showData title Enfoque actual del stack
 
 ---
 
-## projects
+## Projects
 
 **[Operations Management Platform](https://github.com/cristianT2002)**  
 Full-stack platform for field operations. REST API (Flask + SQLAlchemy), multi-schema PostgreSQL, React frontend with Redux Toolkit and interactive maps (Leaflet). 2FA, HTTP compression, HTTPS reverse proxy. Clean dev/prod environment separation.  
@@ -86,7 +87,7 @@ Real-time backend for PPE compliance and unauthorized access detection via YOLO 
 
 ---
 
-## contact
+## Contact
 
 [linkedin.com/in/cristiantasconm](https://linkedin.com/in/cristiantasconm) · cristiantmm11@outlook.com
 
