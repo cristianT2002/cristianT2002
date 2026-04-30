@@ -58,7 +58,8 @@ I build backend systems that don't fall apart under pressure. 3+ years working o
 
 ---
 
-## gráficos
+## Stack focus
+
 
 ```mermaid
 pie showData title Enfoque actual del stack
@@ -67,14 +68,6 @@ pie showData title Enfoque actual del stack
   "Frontend" : 15
   "Data Engineering" : 15
   "Infra y Observabilidad" : 10
-```
-
-```mermaid
-xychart-beta
-    title "Impacto técnico medido"
-    x-axis ["Costos ML", "Memoria", "Precisión CV", "Errores Prod", "Detección Fallas", "Consultas SQL"]
-    y-axis "Mejora (%)" 0 --> 100
-    bar [96, 50, 85, 30, 40, 35]
 ```
 
 ---
