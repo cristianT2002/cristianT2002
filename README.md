@@ -24,30 +24,58 @@ I build backend systems that don't fall apart under pressure. 3+ years working o
 
 ## stack
 
-```python
-core     = ["Python", "FastAPI", "Flask", "React", "TypeScript"]
-data     = ["PostgreSQL", "MySQL", "SQLAlchemy"]
-infra    = ["Docker", "AWS (EC2, S3, Lambda)", "Kubernetes", "Nginx", "GitLab CI"]
-observe  = ["Grafana", "Prometheus", "pytest"]
-ml_cv    = ["YOLO", "OpenCV", "scikit-learn"]
-arch     = ["Clean Architecture", "Event-Driven", "Microservices", "REST APIs"]
-```
+### backend / api
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-4B5563?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+### infra / devops
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### observabilidad y testing
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+### ai / computer vision
+![YOLO](https://img.shields.io/badge/YOLO-7A3EF2?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
-## experience
+## gráficos
 
-**Axure Technologies** — Frontend Developer `Jan 2026 → now`  
-Redesigned an industrial monitoring platform with React + Leaflet.js. Reduced UI response time by 30% via component architecture optimization.
+```mermaid
+pie showData title Enfoque actual del stack
+  "Backend/APIs" : 35
+  "Computer Vision/AI" : 25
+  "Frontend" : 15
+  "Data Engineering" : 15
+  "Infra y Observabilidad" : 10
+```
 
-**Axure Technologies** — Backend Developer, Innovation & Development `Jul 2023 → Dec 2025`  
-Led refactor of a real-time computer vision system (YOLO) for accident prevention. Implemented Clean + event-driven architecture — 50% memory reduction. Built ML model that cut Starlink overuse costs by 96%. Managed Docker environments with Grafana/Prometheus monitoring.
-
-**Freelance** — Full Stack Developer `Oct 2025 → Mar 2026`  
-Designed PostgreSQL schema for 30k+ records (−35% query time). Built RESTful APIs with Flask, automated data pipelines (−40% manual effort), and resolved performance bottlenecks (−25% system-wide).
-
-**Axure Technologies** — Software Engineering Intern `Dec 2022 → Jun 2023`  
-Built electrical sensor monitoring systems (+15% energy efficiency). Developed Python image processing modules (−25% analysis time).
+```mermaid
+xychart-beta
+    title "Impacto técnico medido"
+    x-axis ["Costos ML", "Memoria", "Precisión CV", "Errores Prod", "Detección Fallas", "Consultas SQL"]
+    y-axis "Mejora (%)" 0 --> 100
+    bar [96, 50, 85, 30, 40, 35]
+```
 
 ---
 
@@ -60,33 +88,6 @@ Full-stack platform for field operations. REST API (Flask + SQLAlchemy), multi-s
 **[Industrial Risk Detection System](https://github.com/cristianT2002)**  
 Real-time backend for PPE compliance and unauthorized access detection via YOLO + OpenCV. RTSP stream processing with GPU inference. Event-driven alert pipeline (SMTP + WhatsApp API). 15–20 high-value alerts/day with 85%+ precision.  
 `FastAPI` `YOLO` `OpenCV` `Event Bus` `Clean Architecture` `GPU`
-
----
-
-## github
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=cristianT2002&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=cristianT2002&show_icons=true&hide_border=true&bg_color=ffffff&title_color=1a1a1a&text_color=555555&icon_color=0969da&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=cristianT2002&show_icons=true&hide_border=true&include_all_commits=true" height="160" />
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianT2002&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=6"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianT2002&layout=compact&hide_border=true&bg_color=ffffff&title_color=1a1a1a&text_color=555555&langs_count=6"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianT2002&layout=compact&hide_border=true&langs_count=6" height="160" />
-</picture>
 
 ---
 
