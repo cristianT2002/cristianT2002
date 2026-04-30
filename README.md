@@ -9,7 +9,7 @@ I build backend systems that don't fall apart under pressure. 3+ years working o
 
 ---
 
-## impact
+## Impact
 
 | metric | result | context |
 |--------|--------|---------|
@@ -22,7 +22,7 @@ I build backend systems that don't fall apart under pressure. 3+ years working o
 
 ---
 
-## stack
+## Stack
 
 ### backend / api
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -81,13 +81,6 @@ Full-stack platform for field operations. REST API (Flask + SQLAlchemy), multi-s
 **[Industrial Risk Detection System](https://github.com/cristianT2002)**  
 Real-time backend for PPE compliance and unauthorized access detection via YOLO + OpenCV. RTSP stream processing with GPU inference. Event-driven alert pipeline (SMTP + WhatsApp API). 15–20 high-value alerts/day with 85%+ precision.  
 `FastAPI` `YOLO` `OpenCV` `Event Bus` `Clean Architecture` `GPU`
-
----
-
-## certifications
-
-- Introduction to Modern AI — Cisco Networking Academy `2026`
-- Data Architect in Python (Basic–Intermediate) — Bootcamp Institute `2024`
 
 ---
 
